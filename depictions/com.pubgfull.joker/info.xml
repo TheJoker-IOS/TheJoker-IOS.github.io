@@ -1,0 +1,24 @@
+<packageInfo>
+    <bundleId>com.pubgfull.joker</bundleId>
+    <name>TheJoker Full</name>
+    <version>2</version>
+    <descriptions>
+        <description>
+            PUBG Kr, Vietnam, Global Full Version
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>11.0</miniOS>
+        <maxiOS>14.7.1</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>mobilesubstrate</dependency>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion>V2</changeVersion>
+            <changeDescription>Login System Change</changeDescription>
+            <changeDescription>Aimbot System Change</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>

@@ -1,0 +1,10 @@
+Package: com.pubgfull.joker
+Name: PubgMobile FullJoker
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: PUBG Kr, Vietnam, Global Full Version
+Maintainer: THEJOKER
+Author: THEJOKER
+Section: Tweaks
+Tag: role::hacker
+Version: 2
