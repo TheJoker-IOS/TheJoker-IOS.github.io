@@ -1,13 +1,7 @@
 <packageInfo>
-    <bundleId>
        <bundleId>com.pubgsafe.joker</bundleId>
-       </bundleId>
-       <name>
        <name>TheJoker Safe</name>
-       </name>
-       <version>
        <version>2</version>
-       </version>
     <descriptions>
         <description>
             PUBG Kr, Vietnam, Global Full Version
