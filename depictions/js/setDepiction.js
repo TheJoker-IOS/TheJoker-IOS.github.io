@@ -22,21 +22,12 @@ $(function(){
         
         // Parse the xml file and get data
             $(xml).find('packageInfo').each(function(){
-           // document.getElementById("name").innerHTML = $(this).find("name").text();
-           // document.getElementById("bundleId").innerHTML = $(this).find("bundleId").text();
-           // document.getElementById("version").innerHTML = $(this).find("version").text();
+            document.getElementById("name").innerHTML = $(this).find("name").text();
+            document.getElementById("bundleId").innerHTML = $(this).find("bundleId").text();
+            document.getElementById("version").innerHTML = $(this).find("version").text();
             document.getElementById("miniOS").innerHTML = $(this).find("miniOS").text();
             document.getElementById("maxiOS").innerHTML = $(this).find("maxiOS").text();
             
-            $(xml).find('name').each(function(){
-                $("#name" ).append('<li>' +$(this).text()+ '</li>');
-            });
-                $(xml).find('bundleId').each(function(){
-                    $("#bundleId" ).append('<li>' +$(this).text()+ '</li>');
-                });
-                $(xml).find('version').each(function(){
-                    $("#version" ).append('<li>' +$(this).text()+ '</li>');
-                });
             
             $(xml).find('description').each(function(){
                 $("#description" ).append('<li>' +$(this).text()+ '</li>');
