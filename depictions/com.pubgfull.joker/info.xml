@@ -16,7 +16,7 @@
     </dependencies>
     <changelog>
         <change>
-            <changeVersion>V2</changeVersion>
+            <changeVersion>V3</changeVersion>
             <changeDescription>Login System Change</changeDescription>
             <changeDescription>Aimbot System Change</changeDescription>
         </change>
