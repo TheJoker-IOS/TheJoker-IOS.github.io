@@ -17,8 +17,8 @@
     <changelog>
         <change>
             <changeVersion>V4</changeVersion>
-            <changeDescription>Improve Protection</changeDescription>
-                <changeDescription>Improve Aimbot</changeDescription>
-            </change>
-        </changelog>
-    </packageInfo>
+            <changeDescription>Improve AimBot</changeDescription>
+            <changeDescription>Improve AntiCheat</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>
