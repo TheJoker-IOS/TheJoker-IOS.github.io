@@ -1,7 +1,7 @@
 <packageInfo>
-       <bundleId>com.pubgsafe.joker</bundleId>
-       <name>TheJoker Safe</name>
-       <version>4</version>
+    <bundleId>com.pubgsafe.joker</bundleId>
+    <name>TheJoker Safe</name>
+    <version>4</version>
     <descriptions>
         <description>
             PUBG Kr, Vietnam, Global Full Version
@@ -16,12 +16,10 @@
     </dependencies>
     <changelog>
         <change>
-             <changeVersion>V3</changeVersion>
-                       <changeDescription>Login System Change</changeDescription>
-                       <changeDescription>Aimbot System Change</changeDescription>
-                       <changeVersion>V4</changeVersion>
-                       <changeDescription>Improve Protection/changeDescription>
-                       <changeDescription>Improve Aimbot</changeDescription>
-        </change>
-    </changelog>
-</packageInfo>
+            <changeVersion>V4</changeVersion>
+            <changeDescription>Login System Change</changeDescription>
+            <changeDescription>Improve Protection/changeDescription>
+                <changeDescription>Improve Aimbot</changeDescription>
+            </change>
+        </changelog>
+    </packageInfo>
