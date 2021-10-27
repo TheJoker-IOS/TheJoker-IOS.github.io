@@ -16,9 +16,12 @@
     </dependencies>
     <changelog>
         <change>
-            <changeVersion>V3</changeVersion>
-            <changeDescription>Login System Change</changeDescription>
-            <changeDescription>Aimbot System Change</changeDescription>
+             <changeVersion>V3</changeVersion>
+                       <changeDescription>Login System Change</changeDescription>
+                       <changeDescription>Aimbot System Change</changeDescription>
+                       <changeVersion>V4</changeVersion>
+                       <changeDescription>Improve Protection/changeDescription>
+                       <changeDescription>Improve Aimbot</changeDescription>
         </change>
     </changelog>
 </packageInfo>
