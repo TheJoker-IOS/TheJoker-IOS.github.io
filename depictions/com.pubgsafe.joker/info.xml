@@ -22,10 +22,5 @@
             <changeDescription>Changing Edges UI</changeDescription>
             <changeDescription>Adding Enemy's ID</changeDescription>
             <change>
-                <change>
-                    <changeVersion>V4</changeVersion>
-                    <changeDescription>Improve AimBot</changeDescription>
-                    <changeDescription>Improve AntiCheat</changeDescription>
-                </change>
             </changelog>
         </packageInfo>
