@@ -1,7 +1,7 @@
 <packageInfo>
     <bundleId>com.pubgsafe.joker</bundleId>
     <name>TheJoker Safe</name>
-    <version>5</version>
+    <version>6</version>
     <descriptions>
         <description>
             PUBG Kr, Vietnam, Global Full Version
@@ -9,18 +9,18 @@
     </descriptions>
     <compatibility>
         <miniOS>11.0</miniOS>
-        <maxiOS>14.7.1</maxiOS>
+        <maxiOS>15.0</maxiOS>
     </compatibility>
     <dependencies>
         <dependency>mobilesubstrate</dependency>
     </dependencies>
     <changelog>
         <change>
-            <changeVersion>V5</changeVersion>
-            <changeDescription>Changing Login System UI</changeDescription>
-            <changeDescription>Improving Protection</changeDescription>
-            <changeDescription>Changing Edges UI</changeDescription>
-            <changeDescription>Adding Enemy's ID</changeDescription>
+            <changeVersion>V6</changeVersion>
+            <changeDescription>Adding 3D Box</changeDescription>
+            <changeDescription>Adding Extra Protection System</changeDescription>
+            <changeDescription>Fixing Bugs</changeDescription>
+            <changeDescription>Supports Latest Version 1.7.0</changeDescription>
         </change>
     </changelog>
 </packageInfo>
