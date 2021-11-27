@@ -1,7 +1,7 @@
 <packageInfo>
     <bundleId>com.pubgsafe.joker</bundleId>
     <name>TheJoker Safe</name>
-    <version>7</version>
+    <version>8</version>
     <descriptions>
         <description>
             PUBG Kr, Vietnam, Global Full Version
@@ -16,11 +16,9 @@
     </dependencies>
     <changelog>
         <change>
-            <changeVersion>V7</changeVersion>
-            <changeDescription>Adding 3D Box</changeDescription>
-            <changeDescription>Adding Extra Protection System</changeDescription>
+            <changeVersion>V8</changeVersion>
+            <changeDescription>Security Improvement</changeDescription>
             <changeDescription>Fixing Bugs</changeDescription>
-            <changeDescription>Supports Latest Version 1.7.0</changeDescription>
         </change>
     </changelog>
 </packageInfo>
