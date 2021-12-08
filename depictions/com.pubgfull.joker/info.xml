@@ -1,7 +1,7 @@
 <packageInfo>
     <bundleId>com.pubgfull.joker</bundleId>
     <name>TheJoker Full</name>
-    <version>5</version>
+    <version>10</version>
     <descriptions>
         <description>
             PUBG Kr, Vietnam, Global Full Version
@@ -16,11 +16,8 @@
     </dependencies>
     <changelog>
         <change>
-            <changeVersion>V5</changeVersion>
-            <changeDescription>Changing Login System UI</changeDescription>
-            <changeDescription>Improving Protection</changeDescription>
-            <changeDescription>Changing Edges UI</changeDescription>
-            <changeDescription>Adding Enemy's ID</changeDescription>
+            <changeVersion>V10</changeVersion>
+            <changeDescription>Supports 1.7.0</changeDescription>
         </change>
     </changelog>
 </packageInfo>
