@@ -1,0 +1,11 @@
+Package: com.pubgsafe.joker
+Name: PubgMobile SafeJoker
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: PUBG Kr, Vietnam, Global Version
+Maintainer: THEJOKER
+Author: THEJOKER
+Section: Tweaks
+Depiction: https://TheJoker-IOS.github.io/depictions/?p=com.pubgsafe.joker
+Tag: role::hacker
+Version: 10
