@@ -1,7 +1,7 @@
 <packageInfo>
     <bundleId>com.pubgsafe.joker</bundleId>
     <name>TheJoker Safe</name>
-    <version>20</version>
+    <version>24</version>
     <descriptions>
         <description>
             PUBG Kr, Vietnam, Global Full Version
@@ -16,9 +16,9 @@
     </dependencies>
     <changelog>
         <change>
-            <changeVersion>V20</changeVersion>
-            <changeDescription>Supporting latest PUBGM v1.8.0</changeDescription>
-            <changeDescription>Fixing Bugs</changeDescription>
+            <changeVersion>V24</changeVersion>
+            <changeDescription>Security Improvements</changeDescription>
+            <changeDescription>Fixing ESP Bugs</changeDescription>
         </change>
     </changelog>
 </packageInfo>
