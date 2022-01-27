@@ -1,7 +1,7 @@
 <packageInfo>
     <bundleId>com.pubgfull.joker</bundleId>
     <name>TheJoker Full</name>
-    <version>15</version>
+    <version>23</version>
     <descriptions>
         <description>
             PUBG Kr, Vietnam, Global Full Version
@@ -16,8 +16,8 @@
     </dependencies>
     <changelog>
         <change>
-            <changeVersion>V15</changeVersion>
-            <changeDescription>Improving Security</changeDescription>
+            <changeVersion>V23</changeVersion>
+            <changeDescription>1.8.0 supported</changeDescription>
         </change>
     </changelog>
 </packageInfo>
